@@ -6,14 +6,6 @@ import (
 	"os"
 )
 
-// func findCommonChars (s1 string, s2 string) {
-
-// 	a := map[string]int{}
-
-// 	s1.
-
-// }
-
 type ComparableString string
 
 func (r ComparableString) commonChars(s string) map[string]int {
