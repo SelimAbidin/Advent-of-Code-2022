@@ -118,6 +118,4 @@ func main() {
 	c9000, c9001 := solution("data/5/input.txt")
 	fmt.Printf("Part 1 solution is %s\n", c9000)
 	fmt.Printf("Part 2 solution is %s\n", c9001)
-	// fmt.Printf("Part 2 solution is %d\n", intersectCount)
-
 }
